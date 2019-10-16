@@ -1,2 +1,2 @@
 # hello-world
-This is my first Repository.  Legend start from right now.
+This is my first Repository.  Legend starts from right now.
